@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://biuym5viqm5it"]
+
+[ext_resource type="Texture2D" uid="uid://cxqlulh824ed3" path="res://addons/Defult Texture/Missing_Texture.svg" id="1_8jdcm"]
+
+[resource]
+albedo_texture = ExtResource("1_8jdcm")
+metallic_specular = 0.0
+roughness = 0.0
+emission_enabled = true
+emission_texture = ExtResource("1_8jdcm")
+uv1_scale = Vector3(3, 3, 3)
+uv1_triplanar = true
+uv2_triplanar = true
