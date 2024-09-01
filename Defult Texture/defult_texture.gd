@@ -1,6 +1,6 @@
 @tool
 extends EditorPlugin
-#Change the path to whatever texture you want as teh defult ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+#Change the path to whatever texture you want as the defult ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 @export_file("*.tres") var default_material_path: String = "res://addons/Defult Texture/Missing_Texture.tres"
 var default_material: Material
 
